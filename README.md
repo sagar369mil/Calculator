@@ -1,1 +1,1 @@
-# Making-a-Calculator
+Calculator
